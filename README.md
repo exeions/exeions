@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6E22F7&multiline=true&width=435&lines=Hi%2C+I'm+exe%F0%9F%91%8B;Aspiring+software+developer+%7C+Gym+enjoyer+%7C+6'5+for+no+reason)](https://git.io/typing-svg)
 <!--
 **exeions/exeions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
