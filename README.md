@@ -15,7 +15,7 @@
 
 ## Achievements
 
-- 🎮 Ex-Roblox Developer with multiple published games
+- 🎮 Developed multiple games on the Roblox platform
 - 📈 Achieved 50M+ total visits across games on the platform
 - 👥 Reached a peak of 4,000 concurrent players in a single game
 - 💰 Generated £12,000+ GBP in revenue from game development
