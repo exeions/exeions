@@ -1,1 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=6E22F7&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+exe%F0%9F%91%8B;Aspiring+software+developer+studying+at+college)](https://git.io/typing-svg)
+# About me
+
+- 🎓 Student
+- 💻 Learning: Python / JavaScript
+- 🎯 Goal: Get better at building real projects
