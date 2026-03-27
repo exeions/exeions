@@ -25,14 +25,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-## Stats
+## Big Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=exeions&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-## Projects
-
-- As of now I do not currently have a project that I am working on.
+- As of now I do not currently have a big project that I am working on.
 - All of my work done so far on Python and JavaScript is located in my public repositories.
+
+## Small Projects
+
+- QR Code Generator that uses the 'qrcode' library with a CLI interface, clean code structure and input validation.
+  [View Project](https://github.com/exeions/HOME-Y1-Projects/blob/main/Python/QRCodeGenerator.py)
