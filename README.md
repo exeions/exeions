@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unica+One&size=30&pause=500&color=FFFFFF&multiline=true&center=true&width=700&height=100&lines=Hi%2C+I'm+exe!;I'm+an+aspiring+software+developer.">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=1000&center=true&width=1500&lines=Hey%2C+I'm+exe!;I'm+an+aspiring+software+developer+studying+at+college">
 </p>
 
 ## About me
