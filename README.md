@@ -13,6 +13,16 @@
 - 🎯 Goal: Get better at building real projects
 - 🏞️ Favourite Anime: Vinland Saga
 
+## Achievements
+
+- 🎮 Ex-Roblox Developer with multiple published games
+- 📈 Achieved 50M+ total visits across games on the platform
+- 👥 Reached a peak of 4,000 concurrent players in a single game
+- 💰 Generated £12,000+ GBP in revenue from game development
+- 🛠️ Built and managed live game systems (UI, LuaU scripting, monetisation)
+- 📊 Experienced in scaling games and handling large player traffic
+- 📝 Achieved 2 A's in science GSCE and an A in higher maths GCSE
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
