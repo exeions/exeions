@@ -8,7 +8,7 @@
 - 🎓 Student
 - 💻 Learning: Python / JavaScript
 - 🎯 Goal: Get better at building real projects
-- 🏞️ Vinland Saga is my favourite anime
+- 🏞️ Anime: Vinland Saga is my favourite anime
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
