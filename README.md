@@ -36,3 +36,5 @@
 
 - QR Code Generator that uses the 'qrcode' library with a CLI interface, clean code structure and input validation.
   [View Project](https://github.com/exeions/HOME-Y1-Projects/blob/main/Python/QRCodeGenerator.py)
+- Smart Study Tracker CLI that I may expand to a web-app soon.
+  [View Project](https://github.com/exeions/HOME-Y1-Projects/tree/main/Python/PythonSmartStudySessionTrackerCLI)
