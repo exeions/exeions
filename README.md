@@ -31,10 +31,11 @@
 
 - Smart Study Tracker Web-App. Uses Flask and Render (Free), may take a minute to load the site as it has to reload the enviroment. It is a basic project although it is classed as big for me as I am just learning about stuff like this.
     [Open Link](https://studysessiontrackerwebapp.onrender.com/)
+    [View Project](https://github.com/exeions/StudySessionTrackerWebApp)
 
 ## Small Projects
 
 - QR Code Generator that uses the 'qrcode' library with a CLI interface, clean code structure and input validation.
   [View Project](https://github.com/exeions/HOME-Y1-Projects/blob/main/Python/QRCodeGenerator.py)
-- Smart Study Tracker CLI that I may expand to a web-app soon.
+- Smart Study Tracker CLI, I have now turned this into a Web-App listed in my 'Big Projects'.
   [View Project](https://github.com/exeions/HOME-Y1-Projects/tree/main/Python/PythonSmartStudySessionTrackerCLI)
